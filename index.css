@@ -1,0 +1,17 @@
+#parent-div
+{
+  position:relative;
+  height:3000px;
+  width:300px;
+  background-color:red;
+}
+
+#child-div
+{
+  color:white;
+  position:relative;
+  top:1000px;
+  width:300px;
+  display:none;
+  text-align:center;
+}
